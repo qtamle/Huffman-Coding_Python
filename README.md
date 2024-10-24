@@ -13,7 +13,7 @@ Module "binary_data_handler.py" quản lý dữ liệu nhị phân. Nó bao gồ
 ### Hướng dẫn cài đặt
 - **Bước 1: Cài đặt**
   - 1. Clone repo:
-```git clone ```
+```git clone `https://github.com/qtamle/Huffman-Coding_Python``
 - **Bước 2: cài đặt thêm**
   - 1. Đảm bảo bạn đã cài đặt Python 3.x trên máy tính.
   - 2. Cài đặt các gói phụ thuộc bằng cách chạy lệnh.
