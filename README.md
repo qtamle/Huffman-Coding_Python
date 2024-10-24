@@ -11,7 +11,6 @@ Module "huffman_coding.py" chứa các hàm thực hiện mã hóa Huffman một
 Module "binary_data_handler.py" quản lý dữ liệu nhị phân. Nó bao gồm các hàm để đọc và ghi các tệp hình ảnh và ký tự. Dữ liệu nhị phân được đọc từ ảnh, chữ đầu vào và kết quả nén hoặc giải nén sẽ được ghi vào tệp đầu ra.
 
 ### Hướng dẫn cài đặt
-This tool allows you to compress and decompress image data using the Huffman coding algorithm. Follow these steps to get started:
 - **Bước 1: Cài đặt**
   - 1. Clone repo:
 ```git clone ```
